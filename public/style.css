@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    
+}
+h1 {
+    margin: 40px;
+}
+.container {
+  
+margin-bottom: 20px;
+}
+.help {
+    margin: 10px;
+}
+.containerQuestions {
+    margin-top: 20px;
+    
+}
+.answer-btn {
+    padding: 10px;
+    margin: 5px;
+}
