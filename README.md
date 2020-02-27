@@ -1,3 +1,4 @@
 # quizeExpress
 
-Jest to prosta aplikacja z express. Quiz z pytaniami, możliwymi odpowiedziami, podpowiedziami.
+
+This is a simple application from express. Quiz with questions, possible answers, hints.
